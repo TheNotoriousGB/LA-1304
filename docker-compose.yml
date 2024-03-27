@@ -1,0 +1,32 @@
+version: '3.4'
+
+networks:
+  backend:
+    
+services:
+  restapi1304db:
+    container_name: restapi1304-db
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment:
+     - SA_PASSWORD=password@12345#
+     - ACCEPT_EULA=Y   
+    networks: 
+     - backend
+    ports:
+    - 8001:1433
+  
+  restapi1304:
+    container_name: restapi1304
+    image: ${DOCKER_REGISTRY-}restapi1304
+    build:
+      context: .
+      dockerfile: RestApi_1304/Dockerfile
+    networks: 
+      - backend
+    ports:
+     - 8002:80
+    environment:
+    - DB_HOST=restapi1304-db
+    - DB_NAME=restapi1304db
+    - DB_USER=admin
+    - DB_SA_PASSWORD=password@12345#
