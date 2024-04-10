@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using RestApi_1304.Models;
 using System.Linq;
-
+using Microsoft.AspNetCore.Authorization;
 
 namespace LB_295_BischofGabriel.Controllers
 {
@@ -43,7 +43,7 @@ namespace LB_295_BischofGabriel.Controllers
 
             return veranstaltung;
         }
-
+            [Authorize]
             [HttpPost]
             public async Task<ActionResult<Veranstaltungen>> PostVeranstaltung(Veranstaltungen veranstaltung)
             {
@@ -52,7 +52,7 @@ namespace LB_295_BischofGabriel.Controllers
 
                 return CreatedAtAction("GetVeranstaltung", new { id = veranstaltung.Id }, veranstaltung);
             }
-
+            [Authorize]
             [HttpPut]
             [Route("{id}")]
             public async Task<IActionResult> PutVeranstaltung(int id, Veranstaltungen veranstaltung)
@@ -82,7 +82,7 @@ namespace LB_295_BischofGabriel.Controllers
 
                 return NoContent();
             }
-
+            [Authorize]
             [HttpDelete]
             [Route("{id}")]
             public async Task<IActionResult> DeleteVeranstaltung(int id)
