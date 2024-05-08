@@ -82,8 +82,8 @@ Wir haben uns entschieden, mit agilen Methoden zu arbeiten und einen Fokus darau
 ## 5 Testen
 
 
-| TC-№ | Datum | Resultat | Tester |
-| ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| TC-№ | Datum | Resultat |
+| ---- | ----- | -------- | 
+| 1.1  |27.03.2024       |nicht OK  |        
+| ...  |       |          |        
 
