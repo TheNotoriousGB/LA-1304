@@ -78,7 +78,6 @@ Wir haben uns entschieden, mit agilen Methoden zu arbeiten und einen Fokus darau
 | 5.A  |20.03.2024|John Broder        |60 min         |75 min                   |
 | 5.A  |20.03.2024|Alle        |60 min         |75 min                   |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Testen
 
