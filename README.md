@@ -51,7 +51,7 @@ Unser Projekt ist die Entwicklung eines umfassenden Veranstaltungsbuchungssystem
 | 2.A  |03.04.2024|Gabriel Bischof|Informationen zu den Veranstaltungen anzeigen|60min|
 | 3.A  |03.04.2024|Ensar Yildirim|Buchen von Tickets für die veranstaltungen|90min|
 | 4.A  |03.04.2024|Gabriel Bischof/ John Broder|Benutzerkonto erstellen|120min|
-| 5.A  |03.04.2024|Gabriel Bischof/ John Broder|Benutzerkonto verwlen können|60min|
+| 5.A  |03.04.2024|Gabriel Bischof/ John Broder|Benutzerkonto verwalten können|60min|
 | 6.A  |03.04.2024|Alle|Buchungsbeleg ausgeben |60min|
 | 6.B  |03.04.2024|Alle|überprüfung der Buchung |60min|
 
@@ -67,14 +67,16 @@ Wir haben uns entschieden, mit agilen Methoden zu arbeiten und einen Fokus darau
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |20.03.2024|        |75 min         |120min                   |
-| 1.B  |20.03.2024|        |60 min         |80 min                   |
-| 1.C  |20.03.2024|        |45 min         |50 min                   |
-| 1.D  |20.03.2024|        |60 min         |75 min                   |
+| 1.A  |20.03.2024|        |75 min         |300min                   |
+| 1.B  |20.03.2024|        |60 min         |90 min                   |
+| 1.C  |20.03.2024|        |45 min         |60 min                   |
+| 1.D  |20.03.2024|        |60 min         |80 min                   |
 | 2.A  |20.03.2024|        |60 min         |85 min                   |
-| 1.D  |20.03.2024|        |60 min         |75 min                   |
-| 1.D  |20.03.2024|        |60 min         |75 min                   |
-| 1.D  |20.03.2024|        |60 min         |75 min                   |
+| 3.A  |20.03.2024|        |90 min         |110 min                   |
+| 4.A  |20.03.2024|        |120 min        |140 min                   |
+| 5.A  |20.03.2024|        |60 min         |75 min                   |
+| 5.A  |20.03.2024|        |60 min         |75 min                   |
+| 5.A  |20.03.2024|        |60 min         |75 min                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
