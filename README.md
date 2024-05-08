@@ -59,14 +59,22 @@ Total:690min
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns entschieden, mit agilen Methoden zu arbeiten und einen Fokus darauf zu legen.
+
+
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |20.03.2024|        |75 min         |120min                   |
+| 1.B  |20.03.2024|        |60 min         |80 min                   |
+| 1.C  |20.03.2024|        |45 min         |50 min                   |
+| 1.D  |20.03.2024|        |60 min         |75 min                   |
+| 2.A  |20.03.2024|        |60 min         |85 min                   |
+| 1.D  |20.03.2024|        |60 min         |75 min                   |
+| 1.D  |20.03.2024|        |60 min         |75 min                   |
+| 1.D  |20.03.2024|        |60 min         |75 min                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
