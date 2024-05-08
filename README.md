@@ -8,7 +8,7 @@ Gabriel Bischof, Ensar Yildirm, John Broder
 |13.03.2024       | ...     | Wir haben uns informiert, wie wir unser Projekt umsetzen können.                                                             |
 |20.03.2024       | 1.0.0   |  Wir haben angefangen zu programmieren.                                                              |
 |27.03.2024       | 1.0.0   | Wir haben uns über unsere Probleme Informiert.                                                             |
-|08.05.2024       | 1.0.0   |Dokumentation beendet.                                                              |
+|08.05.2024       | 1.0.0   |Wir haben unser Projekt beendet.                                                              |
 
 ## 1 Informieren
 
