@@ -4,10 +4,11 @@ Gabriel Bischof, Ensar Yildirm, John Broder
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|06.03.2024       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|13.03.2024       | ...     |                                                              |
-|20.03.2024       | 1.0.0   |                                                              |
-|27.03.2024       | 1.0.0   |                                                              |
+|06.03.2024       | 0.0.1   | Angefangen die Dokumentation zu bearbeiten. |
+|13.03.2024       | ...     | Wir haben uns informiert, wie wir unser Projekt umsetzen möchten.                                                             |
+|20.03.2024       | 1.0.0   |  Wir haben angefangen zu programmieren.                                                              |
+|27.03.2024       | 1.0.0   | Wir haben uns über unsere Probleme Informiert.                                                             |
+|08.05.2024       | 1.0.0   |Dokumentation beendet.                                                              |
 
 ## 1 Informieren
 
