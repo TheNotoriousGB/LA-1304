@@ -4,11 +4,11 @@ Gabriel Bischof, Ensar Yildirm, John Broder
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|06.03.2024       | 0.0.1   | Angefangen die Dokumentation zu bearbeiten. |
-|13.03.2024       | ...     | Wir haben uns informiert, wie wir unser Projekt umsetzen können.                                                             |
-|20.03.2024       | 1.0.0   |  Wir haben angefangen zu programmieren.                                                              |
-|27.03.2024       | 1.0.0   | Wir haben uns über unsere Probleme Informiert.                                                             |
-|08.05.2024       | 1.0.0   |Wir haben unser Projekt beendet.                                                              |
+|06.03.2024       | 1.1   | Angefangen die Dokumentation zu bearbeiten. |
+|13.03.2024       | 1.2    | Wir haben uns informiert, wie wir unser Projekt umsetzen können.                                                             |
+|20.03.2024       | 2.1   |  Wir haben angefangen zu programmieren.                                                              |
+|27.03.2024       | 2.2   | Wir haben uns über unsere Probleme Informiert.                                                             |
+|08.05.2024       | 3.1   |Wir haben unser Projekt beendet.                                                              |
 
 ## 1 Informieren
 
