@@ -4,9 +4,10 @@ Gabriel Bischof, Ensar Yildirm, John Broder
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|28.02.2024       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|06.03.2024       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+|13.03.2024       | ...     |                                                              |
+|20.03.2024       | 1.0.0   |                                                              |
+|27.03.2024       | 1.0.0   |                                                              |
 
 ## 1 Informieren
 
