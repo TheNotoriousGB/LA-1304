@@ -67,16 +67,16 @@ Wir haben uns entschieden, mit agilen Methoden zu arbeiten und einen Fokus darau
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |20.03.2024|        |75 min         |300min                   |
-| 1.B  |20.03.2024|        |60 min         |90 min                   |
-| 1.C  |20.03.2024|        |45 min         |60 min                   |
-| 1.D  |20.03.2024|        |60 min         |80 min                   |
-| 2.A  |20.03.2024|        |60 min         |85 min                   |
-| 3.A  |20.03.2024|        |90 min         |110 min                   |
-| 4.A  |20.03.2024|        |120 min        |140 min                   |
-| 5.A  |20.03.2024|        |60 min         |75 min                   |
-| 5.A  |20.03.2024|        |60 min         |75 min                   |
-| 5.A  |20.03.2024|        |60 min         |75 min                   |
+| 1.A  |20.03.2024|Alle        |75 min         |300min                   |
+| 1.B  |20.03.2024|Alle        |60 min         |90 min                   |
+| 1.C  |20.03.2024|Alle        |45 min         |60 min                   |
+| 1.D  |20.03.2024|Alle        |60 min         |80 min                   |
+| 2.A  |20.03.2024|Ensar Yildirim        |60 min         |85 min                   |
+| 3.A  |20.03.2024|Gabriel Bischof        |90 min         |110 min                   |
+| 4.A  |20.03.2024|Alle        |120 min        |140 min                   |
+| 5.A  |20.03.2024|Alle        |60 min         |75 min                   |
+| 5.A  |20.03.2024|John Broder        |60 min         |75 min                   |
+| 5.A  |20.03.2024|Alle        |60 min         |75 min                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
