@@ -85,10 +85,10 @@ Wir haben uns entschieden, mit agilen Methoden zu arbeiten und einen Fokus darau
 | TC-№ | Datum | Resultat |
 | ---- | ----- | -------- | 
 | 1.1  |27.03.2024       |nicht OK  |        
-| 1.2  |27.03.2024       |nicht Ok      |        
-| 1.3  |27.03.2024       |nicht OK  |        
-| 1.4  |27.03.2024       |nicht OK  |        
-| 2.1  |27.03.2024       |nicht OK  |        
-| 3.1  |27.03.2024       |nicht OK  |
+| 2.1  |27.03.2024       |nicht Ok      |        
+| 3.1  |27.03.2024       |nicht OK  |        
+| 3.2  |27.03.2024       |nicht OK  |        
 | 4.1  |27.03.2024       |nicht OK  |        
+| 5.1  |27.03.2024       |nicht OK  |
+| 6.1  |27.03.2024       |nicht OK  |        
 
